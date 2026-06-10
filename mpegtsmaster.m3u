@@ -1,0 +1,196 @@
+#EXTM3U
+
+-- ========================================================== --
+-- [ CANALES DE AIRE ]
+-- ========================================================== --
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://logo.m3uassets.com/telefe.png" group-title="Canales de Aire",Telefe HD
+http://200.112.174.230/mtcast_telefehd/mpegts
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://logo.m3uassets.com/eltrece.png" group-title="Canales de Aire",El Trece HD
+http://200.112.174.230/mtcast_eltrecehd/mpegts
+
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://logo.m3uassets.com/america.png" group-title="Canales de Aire",América TV HD
+http://200.112.174.230/mtcast_americahd/mpegts
+
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://logo.m3uassets.com/tvpublica.png" group-title="Canales de Aire",TV Pública HD
+http://200.112.174.230/mtcast_tvpublicahd/mpegts
+
+
+-- ========================================================== --
+-- [ NOTICIAS ]
+-- ========================================================== --
+
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://logo.m3uassets.com/tn.png" group-title="Noticias",TN HD
+http://200.112.174.230/mtcast_tnhd/mpegts
+
+#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://logo.m3uassets.com/c5n.png" group-title="Noticias",C5N HD
+http://200.112.174.230/mtcast_c5nhd/mpegts
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://logo.m3uassets.com/a24.png" group-title="Noticias",A24 HD
+http://200.112.174.230/mtcast_a24hd/mpegts
+
+#EXTINF:-1 tvg-id="LNPlus.ar" tvg-logo="https://logo.m3uassets.com/lnplus.png" group-title="Noticias",LN+ HD
+http://200.112.174.230/mtcast_lnhd/mpegts
+
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://logo.m3uassets.com/cronica.png" group-title="Noticias",Crónica TV
+http://200.112.174.230/mtcast_cronica/mpegts
+
+
+-- [ DEPORTES ]
+-- ========================================================== --
+
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://logo.m3uassets.com/tntsports.png" group-title="Deportes",TNT Sports HD
+http://200.112.174.230/mtcast_tntsportshd/mpegts
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://logo.m3uassets.com/tycsports.png" group-title="Deportes",TyC Sports HD
+http://200.112.174.230/mtcast_tychd/mpegt
+
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://logo.m3uassets.com/espn.png" group-title="Deportes",ESPN HD
+http://200.112.174.230/mtcast_espnhd/mpegts
+
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title="Deportes",ESPN 2 HD
+http://200.112.174.230/mtcast_espn2hd/mpegts
+
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title="Deportes",ESPN 3 HD
+http://200.112.174.230/mtcast_espn3hd/mpegts
+
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://logo.m3uassets.com/espnpremium.png" group-title="Deportes",ESPN Premium HD
+http://200.112.174.230/mtcast_espnpremiumhd/mpegts
+
+#EXTINF:-1 tvg-id="ESPNExtra.ar" tvg-logo="https://logo.m3uassets.com/espnextra.png" group-title="Deportes",ESPN Extra HD
+http://200.112.174.230/mtcast_espnextrahd/mpegts
+
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://logo.m3uassets.com/foxsports.png" group-title="Deportes",Fox Sports HD
+http://200.112.174.230/mtcast_foxsportshd/mpegts
+
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://logo.m3uassets.com/foxsports2.png" group-title="Deportes",Fox Sports 2 HD
+http://200.112.174.230/mtcast_foxsports2hd/mpegts
+
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-logo="https://logo.m3uassets.com/foxsports3.png" group-title="Deportes",Fox Sports 3 HD
+http://200.112.174.230/mtcast_foxsports3hd/mpegts
+
+#EXTINF:-1 tvg-id="DSports2.ar" tvg-logo="https://logo.m3uassets.com/dsports2.png" group-title="Deportes",DSports 2 HD
+http://200.112.174.230/mtcast_dsports2hd/mpegts
+
+
+-- ========================================================== --
+-- [ CINE Y SERIES ]
+-- ========================================================== --
+
+#EXTINF:-1 tvg-id="UniversalTV.ar" tvg-logo="https://logo.m3uassets.com/universaltv.png" group-title="Cine & Series",Universal TV HD
+http://200.112.174.230/mtcast_universalhd/mpegts
+
+#EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-logo="https://logo.m3uassets.com/studiouniversal.png" group-title="Cine & Series",Studio Universal HD
+http://200.112.174.230/mtcast_studiouniversalhd/mpegts
+
+#EXTINF:-1 tvg-id="TNT.ar" tvg-logo="https://logo.m3uassets.com/tnt.png" group-title="Cine & Series",TNT HD
+http://200.112.174.230/mtcast_tnthd/mpegts
+
+#EXTINF:-1 tvg-id="TNTSeries.ar" tvg-logo="https://logo.m3uassets.com/tntseries.png" group-title="Cine & Series",TNT Series HD
+http://200.112.174.230/mtcast_tntserieshd/mpegts
+
+#EXTINF:-1 tvg-id="TNTNovelas.ar" tvg-logo="https://logo.m3uassets.com/tntnovelas.png" group-title="Cine & Series",TNT Novelas HD
+http://200.112.174.230/mtcast_tntnovelashd/mpegts
+
+#EXTINF:-1 tvg-id="Space.ar" tvg-logo="https://logo.m3uassets.com/space.png" group-title="Cine & Series",Space HD
+http://200.112.174.230/mtcast_spacehd/mpegts
+
+#EXTINF:-1 tvg-id="WarnerChannel.ar" tvg-logo="https://logo.m3uassets.com/warner.png" group-title="Cine & Series",Warner Channel HD
+http://200.112.174.230/mtcast_warnerhd/mpegts
+
+#EXTINF:-1 tvg-id="Cinecanal.ar" tvg-logo="https://logo.m3uassets.com/cinecanal.png" group-title="Cine & Series",Cinecanal HD
+http://200.112.174.230/mtcast_cinecanalhd/mpegts
+
+#EXTINF:-1 tvg-id="Star Channel.ar" tvg-logo="https://logo.m3uassets.com/starchannel.png" group-title="Cine & Series",Star Channel HD
+http://200.112.174.230/mtcast_starhd/mpegts
+
+#EXTINF:-1 tvg-id="FX.ar" tvg-logo="https://logo.m3uassets.com/fx.png" group-title="Cine & Series",FX HD
+http://200.112.174.230/mtcast_fxhd/mpegts
+
+#EXTINF:-1 tvg-id="AXN.ar" tvg-logo="https://logo.m3uassets.com/axn.png" group-title="Cine & Series",AXN HD
+http://200.112.174.230/mtcast_axnhd/mpegts
+
+#EXTINF:-1 tvg-id="AMC.ar" tvg-logo="https://logo.m3uassets.com/amc.png" group-title="Cine & Series",AMC HD
+http://200.112.174.230/mtcast_amchd/mpegts
+
+#EXTINF:-1 tvg-id="AMCSeries.ar" tvg-logo="https://logo.m3uassets.com/amcseries.png" group-title="Cine & Series",AMC Series HD (Más Chic)
+http://200.112.174.230/mtcast_maschichd/mpegts
+
+#EXTINF:-1 tvg-id="SonyChannel.ar" tvg-logo="https://logo.m3uassets.com/sony.png" group-title="Cine & Series",Sony Channel HD
+http://200.112.174.230/mtcast_sonyhd/mpegts
+
+#EXTINF:-1 tvg-id="TCM.ar" tvg-logo="https://logo.m3uassets.com/tcm.png" group-title="Cine & Series",TCM HD
+http://200.112.174.230/mtcast_tcmhd/mpegts
+
+
+-- ========================================================== --
+-- [ INFANTILES ]
+-- ========================================================== --
+
+#EXTINF:-1 tvg-id="DisneyJunior.ar" tvg-logo="https://logo.m3uassets.com/disneyjunior.png" group-title="Infantiles",Disney Junior HD
+http://200.112.174.230/mtcast_disneyjrhd/mpegts
+
+#EXTINF:-1 tvg-id="DisneyChannel.ar" tvg-logo="https://logo.m3uassets.com/disney.png" group-title="Infantiles",Disney Channel HD
+http://200.112.174.230/mtcast_disneyhd/mpegts
+
+#EXTINF:-1 tvg-id="Tooncast.ar" tvg-logo="https://logo.m3uassets.com/tooncast.png" group-title="Infantiles",Tooncast HD
+http://200.112.174.230/mtcast_tooncasthd/mpegts
+
+#EXTINF:-1 tvg-id="CartoonNetwork.ar" tvg-logo="https://logo.m3uassets.com/cartoonnetwork.png" group-title="Infantiles",Cartoon Network HD
+http://200.112.174.230/mtcast_cartoonhd/mpegts
+
+#EXTINF:-1 tvg-id="Cartoonito.ar" tvg-logo="https://logo.m3uassets.com/cartoonito.png" group-title="Infantiles",Cartoonito HD
+http://200.112.174.230/mtcast_cartoonitohd/mpegts
+
+#EXTINF:-1 tvg-id="Nickelodeon.ar" tvg-logo="https://logo.m3uassets.com/nickelodeon.png" group-title="Infantiles",Nickelodeon HD
+http://200.112.174.230/mtcast_nickelodeonhd/mpegts
+
+#EXTINF:-1 tvg-id="DiscoveryKids.ar" tvg-logo="https://logo.m3uassets.com/discoverykids.png" group-title="Infantiles",Discovery Kids HD
+http://200.112.174.230/mtcast_discoverykidshd/mpegts
+
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-logo="https://logo.m3uassets.com/pakapaka.png" group-title="Infantiles",Pakapaka
+http://200.112.174.230/mtcast_pakapaka/mpegts
+
+
+-- ========================================================== --
+-- [ DOCUMENTALES Y VARIEDADES ]
+-- ========================================================== --
+
+#EXTINF:-1 tvg-id="NationalGeographic.ar" tvg-logo="https://logo.m3uassets.com/nationalgeographic.png" group-title="Variedades",National Geographic HD
+http://200.112.174.230/mtcast_natgeohd/mpegts
+
+#EXTINF:-1 tvg-id="History.ar" tvg-logo="https://logo.m3uassets.com/history.png" group-title="Variedades",History Channel HD
+http://200.112.174.230/mtcast_historyhd/mpegts
+
+#EXTINF:-1 tvg-id="History2.ar" tvg-logo="https://logo.m3uassets.com/history2.png" group-title="Variedades",History 2 HD
+http://200.112.174.230/mtcast_history2hd/mpegts
+
+#EXTINF:-1 tvg-id="DiscoveryID.ar" tvg-logo="https://logo.m3uassets.com/discoveryid.png" group-title="Variedades",Discovery Investigation Discovery HD
+http://200.112.174.230/mtcast_discoveryidhd/mpegts
+
+#EXTINF:-1 tvg-id="AnimalPlanet.ar" tvg-logo="https://logo.m3uassets.com/animalplanet.png" group-title="Variedades",Animal Planet HD
+http://200.112.174.230/mtcast_animalplanethd/mpegts
+
+#EXTINF:-1 tvg-id="TLC.ar" tvg-logo="https://logo.m3uassets.com/tlc.png" group-title="Variedades",TLC HD
+http://200.112.174.230/mtcast_tlchd/mpegts
+
+#EXTINF:-1 tvg-id="DiscoveryTurbo.ar" tvg-logo="https://logo.m3uassets.com/discoveryturbo.png" group-title="Variedades",Discovery Turbo HD
+http://200.112.174.230/mtcast_turbohd/mpegts
+
+#EXTINF:-1 tvg-id="ElGourmet.ar" tvg-logo="https://logo.m3uassets.com/elgourmet.png" group-title="Variedades",El Gourmet HD
+http://200.112.174.230/mtcast_gourmethd/mpegts
+
+
+-- ========================================================== --
+-- [ MÚSICA Y OTROS ]
+-- ========================================================== --
+
+#EXTINF:-1 tvg-id="MTV.ar" tvg-logo="https://logo.m3uassets.com/mtv.png" group-title="Música",MTV HD
+http://200.112.174.230/mtcast_mtvhd/mpegts
+
+#EXTINF:-1 tvg-id="HTV.ar" tvg-logo="https://logo.m3uassets.com/htv.png" group-title="Música",HTV HD
+http://200.112.174.230/mtcast_htvhd/mpegts
+
+#EXTINF:-1 tvg-id="CanalLuz.ar" tvg-logo="https://logo.m3uassets.com/canalluz.png" group-title="Variedades",Canal Luz HD
+http://200.112.174.230/mtcast_canalluzhd/mpegts
