@@ -201,5 +201,8 @@ http://200.112.174.230/mtcast_htvhd/mpegts
 #EXTINF:-1 tvg-id="CanalLuz.ar" tvg-logo="https://logo.m3uassets.com/canalluz.png" group-title="Variedades",Canal Luz HD
 http://200.112.174.230/mtcast_canalluzhd/mpegts
 
-#EXTINF:-1 tvg-id="CanalLuz.ar" tvg-logo="https://logo.m3uassets.com/argentinisimasatelital.png" group-title="Variedades",Argentinisima satelital HD
+#EXTINF:-1 tvg-id="CanalLuz.abwr" tvg-logo="https://logo.m3uassets.com/argentinisimasatelital.png" group-title="Variedades",Argentinisima satelital HD
 http://200.112.174.230/mtcast_argentinisimahd/mpegts
+
+#EXTINF:-1 tvg-id="CanalLuz.abwr" tvg-logo="https://logo.m3uassets.com/dw.png" group-title="Variedades",Dw HD
+http://200.112.174.230/mtcast_dwhd/mpegts
