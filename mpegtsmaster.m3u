@@ -36,6 +36,9 @@ http://200.112.174.230/mtcast_lnhd/mpegts
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://logo.m3uassets.com/cronica.png" group-title="Noticias",Crónica TV
 http://200.112.174.230/mtcast_cronica/mpegts
 
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://logo.m3uassets.com/canal26.png" group-title="Noticias",26 TV HD
+http://200.112.174.230/mtcast_26tvhd/mpegts
+
 
 -- [ DEPORTES ]
 -- ========================================================== --
@@ -101,6 +104,9 @@ http://200.112.174.230/mtcast_warnerhd/mpegts
 
 #EXTINF:-1 tvg-id="Cinecanal.ar" tvg-logo="https://logo.m3uassets.com/cinecanal.png" group-title="Cine & Series",Cinecanal HD
 http://200.112.174.230/mtcast_cinecanalhd/mpegts
+
+#EXTINF:-1 tvg-id="Cinecanal.ar" tvg-logo="https://logo.m3uassets.com/cinemax.png" group-title="Cine & Series",Cinemax HD
+http://200.112.174.230/mtcast_cinemaxhd/mpegts
 
 #EXTINF:-1 tvg-id="Star Channel.ar" tvg-logo="https://logo.m3uassets.com/starchannel.png" group-title="Cine & Series",Star Channel HD
 http://200.112.174.230/mtcast_starhd/mpegts
@@ -194,3 +200,6 @@ http://200.112.174.230/mtcast_htvhd/mpegts
 
 #EXTINF:-1 tvg-id="CanalLuz.ar" tvg-logo="https://logo.m3uassets.com/canalluz.png" group-title="Variedades",Canal Luz HD
 http://200.112.174.230/mtcast_canalluzhd/mpegts
+
+#EXTINF:-1 tvg-id="CanalLuz.ar" tvg-logo="https://logo.m3uassets.com/argentinisimasatelital.png" group-title="Variedades",Argentinisima satelital HD
+http://200.112.174.230/mtcast_argentinisimahd/mpegts
