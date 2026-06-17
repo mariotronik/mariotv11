@@ -206,3 +206,9 @@ http://200.112.174.230/mtcast_argentinisimahd/mpegts
 
 #EXTINF:-1 tvg-id="CanalLuz.abwr" tvg-logo="https://logo.m3uassets.com/dw.png" group-title="Variedades",Dw HD
 http://200.112.174.230/mtcast_dwhd/mpegts
+
+#EXTINF:-1 tvg-id="CanalLuz.abwr" tvg-logo="https://logo.m3uassets.com/ciudadmagazine.png" group-title="magazine",Ciudad Magazine
+http://200.112.174.230/mtcast_magazine/mpegts
+
+#EXTINF:-1 tvg-id="CanalLuz.abwr" tvg-logo="https://logo.m3uassets.com/encuentro.png" group-title="magazine",Encuentro
+http://200.112.174.230/mtcast_encuentro/mpegts
