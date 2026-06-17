@@ -126,6 +126,9 @@ http://200.112.174.230/mtcast_maschichd/mpegts
 #EXTINF:-1 tvg-id="SonyChannel.ar" tvg-logo="https://logo.m3uassets.com/sony.png" group-title="Cine & Series",Sony Channel HD
 http://200.112.174.230/mtcast_sonyhd/mpegts
 
+#EXTINF:-1 tvg-id="cinear.ar" tvg-logo="https://logo.m3uassets.com/cinear.png" group-title="Cine & Series",Cine AR
+http://200.112.174.230/mtcast_cinear/mpegts
+
 #EXTINF:-1 tvg-id="TCM.ar" tvg-logo="https://logo.m3uassets.com/tcm.png" group-title="Cine & Series",TCM HD
 http://200.112.174.230/mtcast_tcmhd/mpegts
 
@@ -198,17 +201,20 @@ http://200.112.174.230/mtcast_mtvhd/mpegts
 #EXTINF:-1 tvg-id="HTV.ar" tvg-logo="https://logo.m3uassets.com/htv.png" group-title="Música",HTV HD
 http://200.112.174.230/mtcast_htvhd/mpegts
 
+#EXTINF:-1 tvg-id="Quieo musica.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5F_ZpRdMQr1k4ZsY3Iwdxy-7WEquKzwylDTS91uei9rFJsUNo3HcYKSQ7zO8LylRTVi5MJ5qDOEoD9dc33hEcmQjHsUrw-ObgtRzCW39YKmym_ksW08YbRQ3917fKFo5Ap_kzDT9c4azPbn_4xDEy7PHWFVDRJbaL4M6-4BhAE6B57vKVHkUiTGax/s1600/q.png" group-title="Música",Quiero musica
+http://200.112.174.230/mtcast_quieromusicahd/mpegts
+
 #EXTINF:-1 tvg-id="CanalLuz.ar" tvg-logo="https://logo.m3uassets.com/canalluz.png" group-title="Variedades",Canal Luz HD
 http://200.112.174.230/mtcast_canalluzhd/mpegts
 
-#EXTINF:-1 tvg-id="CanalLuz.abwr" tvg-logo="https://logo.m3uassets.com/argentinisimasatelital.png" group-title="Variedades",Argentinisima satelital HD
+#EXTINF:-1 tvg-id="Argentinisima.abwr" tvg-logo="https://logo.m3uassets.com/argentinisimasatelital.png" group-title="Variedades",Argentinisima satelital HD
 http://200.112.174.230/mtcast_argentinisimahd/mpegts
 
-#EXTINF:-1 tvg-id="CanalLuz.abwr" tvg-logo="https://logo.m3uassets.com/dw.png" group-title="Variedades",Dw HD
+#EXTINF:-1 tvg-id="Dw.abwr" tvg-logo="https://logo.m3uassets.com/dw.png" group-title="Variedades",Dw HD
 http://200.112.174.230/mtcast_dwhd/mpegts
 
-#EXTINF:-1 tvg-id="CanalLuz.abwr" tvg-logo="https://logo.m3uassets.com/ciudadmagazine.png" group-title="magazine",Ciudad Magazine
+#EXTINF:-1 tvg-id="cIUDAD mAGAZINE.abwr" tvg-logo="https://logo.m3uassets.com/ciudadmagazine.png" group-title="magazine",Ciudad Magazine
 http://200.112.174.230/mtcast_magazine/mpegts
 
-#EXTINF:-1 tvg-id="CanalLuz.abwr" tvg-logo="https://logo.m3uassets.com/encuentro.png" group-title="magazine",Encuentro
+#EXTINF:-1 tvg-id="Encuentro.abwr" tvg-logo="https://logo.m3uassets.com/encuentro.png" group-title="magazine",Encuentro
 http://200.112.174.230/mtcast_encuentro/mpegts
