@@ -218,3 +218,10 @@ http://200.112.174.230/mtcast_magazine/mpegts
 
 #EXTINF:-1 tvg-id="Encuentro.abwr" tvg-logo="https://logo.m3uassets.com/encuentro.png" group-title="magazine",Encuentro
 http://200.112.174.230/mtcast_encuentro/mpegts
+
+#EXTINF:-1 tvg-id="Tve.abwr" tvg-logo="https://logo.m3uassets.com/tve.png" group-title="Tve",Encuentro
+http://200.112.174.230/mtcast_tve/mpegts
+
+#EXTINF:-1 tvg-id="Tv5.abwr" tvg-logo="https://logo.m3uassets.com/tv5.png" group-title="Tv5",Encuentro
+http://200.112.174.230/mtcast_tv5/mpegts
+
